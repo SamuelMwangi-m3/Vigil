@@ -1,6 +1,6 @@
 import json
 import os
-from engine import evaluate
+from .engine import evaluate
 
 # Path to the JSON log file
 LOG_FILE = os.path.join(os.path.dirname(__file__), "../decisions/logs.json")
