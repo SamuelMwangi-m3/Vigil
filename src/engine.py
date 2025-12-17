@@ -1,5 +1,3 @@
-# src/engine.py
-
 from datetime import datetime
 
 # Define high-risk countries for example

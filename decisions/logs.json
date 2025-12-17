@@ -1,0 +1,17 @@
+[
+    {
+        "decision_id": "182d4f49-02fb-42a8-a197-d0d3a7f3d92b",
+        "timestamp": "2025-12-17T06:24:20.766220",
+        "inputs": {
+            "transaction_id": "TX1001",
+            "amount": 4500,
+            "country": "Kenya",
+            "user_age": 25,
+            "time_of_day": "23:15",
+            "transaction_type": "online",
+            "previous_fraud_flag": false
+        },
+        "rules_triggered": [],
+        "result": "APPROVED"
+    }
+]
